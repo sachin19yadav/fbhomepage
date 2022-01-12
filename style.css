@@ -1,0 +1,19 @@
+body{
+    margin 0;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    height: 150px;
+    background-color: rgb(1, 124, 118);
+    margin: 0;
+    width: 100%;
+    padding: 0;
+
+
+}
+.main1{
+
+}
